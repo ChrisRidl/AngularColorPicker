@@ -12,10 +12,10 @@ export interface Color {
 export class ColorService {
   getColorsFromApi(): Observable<Color[]> {
     return of([
+      { color: 'Black', value: '#000000' },
       { color: 'White', value: '#FFFFFF' },
       { color: 'Silver', value: '#C0C0C0' },
       { color: 'Gray', value: '#808080' },
-      { color: 'Black', value: '#000000' },
       { color: 'Red', value: '#FF0000' },
       { color: 'Maroon', value: '#800000' },
       { color: 'Yellow', value: '#FFFF00' },

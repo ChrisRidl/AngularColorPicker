@@ -20,7 +20,21 @@ Styling is completely up to you. I encourage you to be creative! However, functi
 
 Good luck!
 
-----------------------
+# Instructions
+You'll first need to navigate to [https://stackblitz.com/edit/angular-color-picker-exercise](https://stackblitz.com/edit/angular-color-picker-exercise).
+
+Once there, click the Fork Icon in the top menu. 
+You shouldn't need to sign in, but you're welcome to.
+
+Once you finish the exercise go ahead and save the project. Then using the `Share` button, copy the `Editor URL` and send the URL back to us.
+
+<br/>
+
+---
+
+<br/>
+<br/>
+
 # ColorPickerApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.

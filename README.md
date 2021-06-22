@@ -1,3 +1,26 @@
+# Exercise
+
+For this excercise you will be writing your own color picker component! 
+You are free to build this component any way you'd like. I have included
+an Angular 12 starting application along with a template to get you started. Under the `services` folder you will find
+a service called `ColorService` in the `color.service.ts file`. This service will
+return an observable of `Colors` you can use to populate your color picker.
+
+Here is an example of what you're looking to build. 
+
+![example](./src/assets/example.png)
+
+## Requirements:
+- Build a component that shows the current selected color, color name, and the color value (default to Black)
+- When the color is clicked, a color selector appears displaying the colors from the `ColorService`
+- Highlight the currently selected color in the color selector when it is opened
+- When a color is selected, the color selector closes and the main component updates with the selected color
+
+Styling is completely up to you. I encourage you to be creative!
+
+Good luck!
+
+----------------------
 # ColorPickerApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.

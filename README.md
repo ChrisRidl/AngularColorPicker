@@ -16,7 +16,7 @@ Here is an example of what you're looking to build.
 - Highlight the currently selected color in the color selector when it is opened
 - When a color is selected, the color selector closes and the main component updates with the selected color
 
-Styling is completely up to you. I encourage you to be creative!
+Styling is completely up to you. I encourage you to be creative! However, functionality is more important 😉
 
 Good luck!
 

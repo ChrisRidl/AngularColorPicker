@@ -1,6 +1,6 @@
 # Exercise
 
-For this excercise you will be writing your own color picker component! 
+For this exercise you will be writing your own color picker component! 
 You are free to build this component any way you'd like. I have included
 an Angular 12 starting application along with a template to get you started. Under the `services` folder you will find
 a service called `ColorService` in the `color.service.ts file`. This service will
